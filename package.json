@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "css-loader": "^7.1.2",
     "glob": "^11.0.0",
     "postcss": "^8.4.41",
     "postcss-sort-media-queries": "^5.2.0",
@@ -18,6 +17,7 @@
   "author": "Shymanska Maria <mariya89y@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "css-loader": "^7.1.2",
     "izitoast": "^1.4.0",
     "simplelightbox": "^2.14.3",
     "vite-plugin-full-reload": "^1.2.0",
